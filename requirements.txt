@@ -1,0 +1,8 @@
+streamlit
+openai
+pypdf
+PyMuPDF
+pytesseract
+Pillow
+sentence-transformers
+numpy
